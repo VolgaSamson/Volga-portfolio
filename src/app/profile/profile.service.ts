@@ -104,12 +104,12 @@ export class ProfileService {
   Have good understanding of Python, PHP, Bootstrap, MongoDB and MYSQL`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
-  resumeurl = "assets/Volga_Resume(g) (2).pdf"
+  resumeurl = "assets/Volga_Resume_04-03-2025.pdf"
 
   skillsData: any = [
     {
       'id': '1',
-      'skill': 'ANGULAR 7+, REACT JS',
+      'skill': 'ANGULAR 7+, REACT JS, NEXT JS',
       'progress': '85%'
     },
     {
