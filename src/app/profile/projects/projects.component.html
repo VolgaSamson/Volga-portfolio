@@ -15,8 +15,8 @@
                                 <h5 class="card-text"><b>Technology :</b> {{project.tech}} </h5>
                                 <h5 class="card-text"><b>Role :</b> {{project.role}} </h5>
                                 <h5 class="card-text"><b>Description :</b> {{project.desc}} </h5>
+                                <h5 *ngIf="project.LiveDemo" class="card-text"><b>Live Demo :</b><a [href]="project.LiveDemo" target="_blank">{{ project.LiveDemo }}</a></h5>
                                 
-
                             </div>
                         </div>
                     </div>
