@@ -45,7 +45,7 @@ export class ProfileService {
       title: 'Distributed File System',
       role: 'Frontend Developer',
       desc: 'Full-stack file storage application offers a comprehensive solution for organizations to manage and store their files efficiently. It includes features such as secure file uploads, advanced file management, and role-based authorization, ensuring that only authorized users can access specific files',
-      imgUrl: 'assets/images/z8.gif',
+      imgUrl: 'assets/images/z10.gif',
       tech: 'NextJs',
       LiveDemo:"https://file-drive-ashy.vercel.app/"
     },
